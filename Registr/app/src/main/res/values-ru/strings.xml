@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson_18_right</string>
+    <string name="vhod">Вход</string>
+    <string name="reg">Регистрация</string>
+    <string name="avatar">Фото</string>
+    <string name="login">Логин</string>
+    <string name="Parol">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="family">Фамилия</string>
+    <string name="Otchestvo">Отчество</string>
+    <string name="next">Продолжить</string>
+    <string name="Exed">Выход</string>
+</resources>

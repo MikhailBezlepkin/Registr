@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson_18_right</string>
+    <string name="vhod">Sign in</string>
+    <string name="reg">Sign up</string>
+    <string name="avatar">Avatar</string>
+    <string name="login">Login</string>
+    <string name="Parol">Password</string>
+    <string name="name">Name</string>
+    <string name="family">Family</string>
+    <string name="Otchestvo">Father name</string>
+    <string name="next">Next</string>
+    <string name="Exed">Exed</string>
+</resources>
